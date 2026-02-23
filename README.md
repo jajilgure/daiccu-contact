@@ -9,4 +9,4 @@
 
 If you have any questions, feedback, or need support regarding **Daiccu**, please contact me via email. I usually respond within 24-48 hours.
 
-* **Email:** jajilgure@gmail.com
+* **Email:** developer.hanseung.ryu@gmail.com
